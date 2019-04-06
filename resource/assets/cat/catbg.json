@@ -1,0 +1,95 @@
+{
+    "file": "catbg.png",
+    "frames": {
+        "more": {
+            "x": 1,
+            "y": 1842,
+            "w": 456,
+            "h": 79,
+            "offX": 14,
+            "offY": 3,
+            "sourceW": 480,
+            "sourceH": 82
+        },
+        "pot": {
+            "x": 845,
+            "y": 1,
+            "w": 45,
+            "h": 45,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 45,
+            "sourceH": 45
+        },
+        "pot_active": {
+            "x": 892,
+            "y": 1,
+            "w": 45,
+            "h": 45,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 45,
+            "sourceH": 45
+        },
+        "share_friend": {
+            "x": 643,
+            "y": 1,
+            "w": 200,
+            "h": 103,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 200,
+            "sourceH": 103
+        },
+        "victory": {
+            "x": 402,
+            "y": 1502,
+            "w": 448,
+            "h": 338,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 448,
+            "sourceH": 338
+        },
+        "again": {
+            "x": 643,
+            "y": 106,
+            "w": 200,
+            "h": 103,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 200,
+            "sourceH": 103
+        },
+        "bg": {
+            "x": 1,
+            "y": 1,
+            "w": 640,
+            "h": 1136,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 640,
+            "sourceH": 1136
+        },
+        "btn_start": {
+            "x": 1,
+            "y": 1139,
+            "w": 399,
+            "h": 567,
+            "offX": 1,
+            "offY": 0,
+            "sourceW": 400,
+            "sourceH": 588
+        },
+        "failed": {
+            "x": 402,
+            "y": 1139,
+            "w": 448,
+            "h": 361,
+            "offX": 0,
+            "offY": 0,
+            "sourceW": 448,
+            "sourceH": 361
+        }
+    }
+}
