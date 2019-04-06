@@ -11,24 +11,7 @@
 		"libs/modules/promise/promise.js"
 	],
 	"game": [
-		"bin-debug/MC.js",
-		"bin-debug/A.js",
-		"bin-debug/AssetAdapter.js",
-		"bin-debug/Card.js",
-		"bin-debug/CardGame.js",
-		"bin-debug/Cat.js",
-		"bin-debug/CatPage.js",
-		"bin-debug/LoadingUI.js",
 		"bin-debug/Main.js",
-		"bin-debug/AddM.js",
-		"bin-debug/Platform.js",
-		"bin-debug/ThemeAdapter.js",
-		"bin-debug/TouchS.js",
-		"bin-debug/view/BackgroundGame.js",
-		"bin-debug/view/GameOverBtn.js",
-		"bin-debug/view/GameOverF.js",
-		"bin-debug/view/GameOverS.js",
-		"bin-debug/view/StartGame.js",
-		"bin-debug/view/ViewManage.js"
+		"bin-debug/displayObjects/DisplayObjects.js"
 	]
 }
