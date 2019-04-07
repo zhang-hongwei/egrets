@@ -12,6 +12,7 @@
 	],
 	"game": [
 		"bin-debug/Main.js",
-		"bin-debug/displayObjects/DisplayObjects.js"
+		"bin-debug/displayObjects/DisplayObjects.js",
+		"bin-debug/movieClip/MC.js"
 	]
 }
