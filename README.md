@@ -1,2 +1,0 @@
-# egrets
-egret study,demo
