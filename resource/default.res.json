@@ -19,9 +19,18 @@
 		{
 			"keys": "animation_json,animation_png",
 			"name": "mc"
-		}
+        },
+        {
+            "keys":"cartoon",
+            "name":"my_r"
+        }
 	],
 	"resources": [
+        {
+			"url": "assets/egret/cartoon.png",
+			"type": "image",
+			"name": "cartoon"
+		},
 		{
 			"url": "assets/m/music.mp3",
 			"type": "sound",
