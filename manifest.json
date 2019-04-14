@@ -13,6 +13,10 @@
 	"game": [
 		"bin-debug/Main.js",
 		"bin-debug/displayObjects/DisplayObjects.js",
+		"bin-debug/displayObjects/DisplayObjects1.js",
+		"bin-debug/displayObjects/DisplayObjects2.js",
+		"bin-debug/displayObjects/DisplayObjects3.js",
+		"bin-debug/displayObjects/IsHit.js",
 		"bin-debug/movieClip/MC.js"
 	]
 }
